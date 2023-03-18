@@ -28,7 +28,7 @@ To contribute, please submit a pull request with the following information:
 >you can suggest multiple certifications.
  * ect (ex. A brief description of the device and its features, Any relevant security information or vulnerabilities that have been identified, comments)
 
-### Step 3 : Press a Summit newe issue
+### Step 3 : Press a 'Summit newe issue' button
 We will review your submission and work with you to ensure that it meets our standards before adding it to the list.
 
 Please note that this list is subject to change as new devices are certified or as security vulnerabilities are identified. We will do our best to keep it up-to-date and accurate.
