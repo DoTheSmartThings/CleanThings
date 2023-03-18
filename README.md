@@ -14,11 +14,14 @@ We welcome contributions from anyone who is interested in helping to build a saf
 
 To contribute, please submit a pull request with the following information:
 
-Device name and brand
-Model number
-Certification status (certified, in progress, or not certified)
-A brief description of the device and its features
-Any relevant security information or vulnerabilities that have been identified
+brand 
+Device name (or Model number)
+Device Type 
+Country
+Suggestion of certification between Clean, Specious and Infected
+ - you can suggest multiple certifications.
+ect (ex. A brief description of the device and its features, Any relevant security information or vulnerabilities that have been identified, comments)
+
 We will review your submission and work with you to ensure that it meets our standards before adding it to the list.
 
 Please note that this list is subject to change as new devices are certified or as security vulnerabilities are identified. We will do our best to keep it up-to-date and accurate.
