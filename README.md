@@ -14,13 +14,13 @@ We welcome contributions from anyone who is interested in helping to build a saf
 
 To contribute, please submit a pull request with the following information:
 
- *brand
- *Device name (or Model number)
- *Device Type 
- *Country
- *Suggestion of certification between Clean, Specious and Infected
+ * brand
+ * Device name (or Model number)
+ * Device Type 
+ * Country
+ * Suggestion of certification between Clean, Specious and Infected
 >you can suggest multiple certifications.
- *ect (ex. A brief description of the device and its features, Any relevant security information or vulnerabilities that have been identified, comments)
+ * ect (ex. A brief description of the device and its features, Any relevant security information or vulnerabilities that have been identified, comments)
 
 We will review your submission and work with you to ensure that it meets our standards before adding it to the list.
 
