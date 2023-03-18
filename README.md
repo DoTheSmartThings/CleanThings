@@ -18,7 +18,7 @@ Enter the [issue tab](https://github.com/DoTheSmartThings/CleanThings/issues) an
 
 ###Step 2 : Write an issue
 To contribute, please submit a pull request with the following information:
- * Title of issue
+ * Title of an issue
 >write in a way you want.
  * brand
  * Device name (or Model number)
