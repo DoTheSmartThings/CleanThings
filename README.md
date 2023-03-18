@@ -26,7 +26,7 @@ To contribute, please submit a pull request with the following information:
  * Country
  * Suggestion of certification between Clean, Specious and Infected
 >you can suggest multiple certifications.
- * ect (ex. A brief description of the device and its features, Any relevant security information or vulnerabilities that have been identified, comments)
+ * ect (ex. A brief description of the device and its features, Any relevant security information or vulnerabilities that have been identified, comments, and more)
 
 ### Step 3 : Press a 'Summit newe issue' button
 We will review your submission and work with you to ensure that it meets our standards before adding it to the list.
